@@ -2,7 +2,7 @@
 
 ### AI Engineer | Agentic AI & RAG Systems
 
-I build production-grade agentic AI systems and RAG pipelines that ship. Specialized in **multi-agent orchestration**, **tool-use workflows**, and **AI safety engineering** using AWS Bedrock, LangChain, and Python.
+I build production-grade agentic AI systems and RAG pipelines that ship. Specialized in **multi-agent orchestration**, **tool-use workflows**, and **AI safety engineering** using AWS Bedrock, LangChain, LangGraph and Python.
 
 ---
 
@@ -34,7 +34,7 @@ An autonomous research agent capable of planning, multi-step reasoning, and dyna
 
 ### [Multi-Agent Content Pipeline](https://github.com/Sameehashaik/multi-agent-content-pipeline)
 A multi-agent content generation system that transforms LinkedIn posts into polished blog articles through a collaborative agent workflow.
-- **Tech:** Python, Multi-Agent Orchestration, LangChain
+- **Tech:** Python, Multi-Agent Orchestration, LangChain and Langgraph
 - **Highlights:** Specialized agents for content analysis, research, drafting, and editing
 
 ### [Personal Knowledge RAG](https://github.com/Sameehashaik/personal-knowledge-rag)
